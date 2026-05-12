@@ -1,0 +1,5 @@
+MiniCompiler/minicompiler
+presentation-next/node_modules/
+node_modules/
+**/node_modules/
+presentation-next/.next/
